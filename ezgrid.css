@@ -1,0 +1,44 @@
+main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+main section{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+main section div{
+    min-width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 300px;
+    flex-wrap: wrap;
+}
+
+main section .c1{
+    flex: 1 0 300px;
+}
+
+main section .c2{
+    flex: 2 0 300px;
+}
+
+main section .c3{
+    flex: 3 0 300px;
+}
+
+main section .c4{
+    flex: 4 0 300px;
+}
+
+main section .c5{
+    flex: 5 0 300px;
+}
