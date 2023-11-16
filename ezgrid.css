@@ -50,3 +50,7 @@ main section .c5{
 .aic{
     align-items: center;
 }
+
+.ma{
+    margin: auto;
+}
