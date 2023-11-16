@@ -43,10 +43,10 @@ main section .c5{
     flex: 5 0 300px;
 }
 
-main section .jcc{
+.jcc{
     justify-content: center;
 }
 
-main section .aic{
+.aic{
     align-items: center;
 }
