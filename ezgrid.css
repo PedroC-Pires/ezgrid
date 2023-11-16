@@ -42,3 +42,11 @@ main section .c4{
 main section .c5{
     flex: 5 0 300px;
 }
+
+main section .jcc{
+    justify-content: center;
+}
+
+main section .aic{
+    align-items: center;
+}
