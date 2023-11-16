@@ -4,7 +4,7 @@ main{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 main section{
@@ -13,6 +13,8 @@ main section{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 main section div{
@@ -22,8 +24,6 @@ main section div{
     flex-direction: column;
     flex: 1 0 300px;
     flex-wrap: wrap;
-    margin-left: 2rem;
-    margin-right: 2rem;
 }
 
 main section .c1{
