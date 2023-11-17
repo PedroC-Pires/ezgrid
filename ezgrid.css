@@ -1,4 +1,4 @@
-main{
+ezmain{
     width: 100%;
     height: auto;
     display: flex;
@@ -7,7 +7,7 @@ main{
     margin-top: 3rem;
 }
 
-main section{
+ezmain ezsection{
     width: 100%;
     height: auto;
     display: flex;
@@ -17,7 +17,7 @@ main section{
     margin-right: 2rem;
 }
 
-main section div{
+ezmain ezsection ezdiv{
     min-width: 300px;
     height: auto;
     display: flex;
@@ -26,23 +26,23 @@ main section div{
     flex-wrap: wrap;
 }
 
-main section .c1{
+ezmain ezsection .c1{
     flex: 1 0 300px;
 }
 
-main section .c2{
+ezmain ezsection .c2{
     flex: 2 0 300px;
 }
 
-main section .c3{
+ezmain ezsection .c3{
     flex: 3 0 300px;
 }
 
-main section .c4{
+ezmain ezsection .c4{
     flex: 4 0 300px;
 }
 
-main section .c5{
+ezmain ezsection .c5{
     flex: 5 0 300px;
 }
 
